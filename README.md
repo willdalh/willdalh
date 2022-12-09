@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @willdalh
-- I'm interested in Machine Learning
+- I'm interested in Generative Modeling
 
 
 <!---
